@@ -1,0 +1,114 @@
+canonical_identifier: bkk:krp/KR6k0100/X/v1
+canonical_location: https://kanripo.org/bkk/KR6k0100/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 梵網經直解
+  identifiers:
+    krp: KR6k0100
+    cbeta: X38n0697
+    cbeta_old_id: X38n0697
+    authorityid: CA0000992
+    json_key: X0697
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X38/X38n0697.xml
+    old_id: X38n0697
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0100_000-X.yaml, hash: 'sha256:1a6b505dde944826e7f3495095f558b834bc19b99ffa13c07d913f9ccb6aca68'}
+  - {seq: 2, filename: KR6k0100_002-X.yaml, hash: 'sha256:fdaaa709558bee9e79e5afec5074ff75f50fd83e78f1fb9d3bbd9851030cf472'}
+  - {seq: 3, filename: KR6k0100_003-X.yaml, hash: 'sha256:37069e40befcda038994adc5c9999248325ef4daf5a5ada993862b71eb64e696'}
+  - {seq: 4, filename: KR6k0100_004-X.yaml, hash: 'sha256:ce78f31af39318619b9dfe2325a1e0b60294a75978f963d3863e6f08278b898e'}
+  - {seq: 5, filename: KR6k0100_005-X.yaml, hash: 'sha256:4e3a4be704879fa286a5fd954467fddc84d4ae44f85cc4d6eaebe956135a3f08'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0100_000-X.markers.yaml, hash: 'sha256:cb42f8928dfc175d83346f48d5c90d8f80d7af80d97d2186852ec710187d5a0c'}
+  - {seq: 2, role: markers, filename: assets/KR6k0100_002-X.markers.yaml, hash: 'sha256:58e18c676fd054dbf22fec845cfbb4f6e9741c1fb2e5111d5ef83749e7386ede'}
+  - {seq: 3, role: markers, filename: assets/KR6k0100_003-X.markers.yaml, hash: 'sha256:3f9e2842e25c247035f75fbebba17758e242c36ccf1ba59ba42ea414a7b77fb5'}
+  - {seq: 4, role: markers, filename: assets/KR6k0100_004-X.markers.yaml, hash: 'sha256:f506672bc230edd7a86ec1123f0c9a825ce89a4504a492dddb724765c9ff7c06'}
+  - {seq: 5, role: markers, filename: assets/KR6k0100_005-X.markers.yaml, hash: 'sha256:4c642f88e9ca3129286057d80e78b5df129d4de55758849daa68e1380b9407c6'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6k0100_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 697-A 梵網經直解弁言
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0100_X_000-mulu-2
+    span:
+    - front
+    - 602
+    - 602
+  label: No. 697-B 進大寶華山三代律師著述奏章
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0100_X_000-mulu-3
+    span:
+    - front
+    - 1747
+    - 1747
+  label: 欽定龍藏梵網直解卷帙字號標目
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0100_X_000-mulu-4
+    span:
+    - front
+    - 1905
+    - 1905
+  label: 佛說梵網經直解
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0100_X_1a-juan-start
+    span:
+    - body
+    - 0
+    - 35310
+  label: 佛說梵網經直解上卷之一
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0100_X_1b-juan-start
+    span:
+    - body
+    - 0
+    - 37082
+  label: 佛說梵網經直解卷上之二
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0100_X_2a-juan-start
+    span:
+    - body
+    - 0
+    - 32734
+  label: 佛說梵網經直解卷下之一
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0100_X_2b-juan-start
+    span:
+    - body
+    - 0
+    - 26853
+  label: 佛說梵網經直解卷下之二
+  type: juan
+  level: 1
+hash: sha256:314ff6dc9d1c7d36830205b964b9ebde4daac4cbb7abb90935dd3a38712e0fd1
